@@ -9,16 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/foo.git"
+    "url": "https://github.com/zautumnz/foo.git"
   },
   "keywords": [
     "",
     ""
   ],
   "author": {
-    "name": "Zac Anger",
-    "email": "zac@zacanger.com",
-    "url": "http://zacanger.com"
+    "name": "Autumn Z"
   },
   "license": "0BSD",
   "dependencies": {

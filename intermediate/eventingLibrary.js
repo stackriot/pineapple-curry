@@ -2,7 +2,7 @@
 // to any object passed to it
 
 // example usage:
-// const z = { name : 'zac' , age : 30 }
+// const z = { name : 'z' , age : 0 }
 // z.on('growingOlder', () => console.log(`i'm now ${z.age}`))
 // z.age++
 // z.trigger('growingOlder')

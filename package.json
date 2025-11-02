@@ -3,25 +3,24 @@
   "description": "Small code challenges.",
   "version": "0.0.1",
   "private": true,
-  "author": "Zac Anger <zac@zacanger.com> (https://zacanger.com)",
+  "author": "Autumn Z",
   "license": "0BSD",
   "main": "index.js",
   "scripts": {
     "format": "sortpack && prettier --write \"**/*.js\"",
     "test:lint": "eslint -c .eslintrc.json ."
   },
-  "homepage": "https://github.com/zacanger/js-drills#readme",
+  "homepage": "https://github.com/zautumnz/js-drills#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zacanger/js-drills.git"
+    "url": "git+https://github.com/zautumnz/js-drills.git"
   },
   "bugs": {
-    "url": "https://github.com/zacanger/js-drills/issues"
+    "url": "https://github.com/zautumnz/js-drills/issues"
   },
   "keywords": [],
   "devDependencies": {
     "eslint": "7.15.0",
-    "eslint-plugin-zacanger": "2.2.0",
     "husky": "4.3.5",
     "lint-staged": "10.5.3",
     "prettier": "2.2.1",
